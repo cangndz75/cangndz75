@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Nextjs/Ecommerce](https://github.com/cangndz75/Nextjs_ecommerce_admin)
 
-- 🌱 I’m currently learning **Nextjs, Prisma, OpenAI, Python, Amazon Web Services**
+- 🌱 I’m currently learning **Nextjs, Prisma, OpenAI, Python, Flutter, Amazon Web Services**
 
-- 🔭 I’m currently working on **React/Doctor Booking Appointment**
+- 🔭 I’m currently working on **Nextjs/ Udemy Website**
 
 - 👨‍💻 My goal, my dream **React Native App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cangndz75](https://github.com/cangndz75)
 
-- 💬 My skills **React, Nextjs, TypeScript, Nodejs, MongoDB, Asp.NET, C#, Java**
+- 💬 My skills **React, Nextjs, TypeScript, Nodejs, React Native, Flutter, MongoDB, Asp.NET, C#, Java**
 
 - 📫 How to reach me **cangunduz01@gmail.com**
 
