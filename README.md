@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://leo-xee.github.io/81aefd7d1672183644b6579d60eee69e/Next.gif">
 
 
-- 🔭 I’m currently working on [Nextjs/Ecommerce](https://github.com/cangndz75/Nextjs_ecommerce_admin)
+- 🔭 I’m currently working on [Nextjs/Udemy-Clone](https://github.com/cangndz75/udemy-next)
 
-- 🌱 I’m currently learning **Nextjs, Prisma, OpenAI, Python, Flutter, Amazon Web Services**
+- 🌱 I’m currently learning **Nextjs, React Native, Prisma, OpenAI, Python, Flutter, Amazon Web Services**
 
-- 🔭 I’m currently working on **Nextjs/ Learning Website**
+- 🔭 I’m currently working on **Nextjs/Udemy & React Native & AI**
 
 - 👨‍💻 My goal, my dream **React Native Fullstack App**
 
