@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can Gündüz</h1>
-<h3 align="center">I am a 4th year Software Engineering student at Dogus University. I strive to have a strong background in FullStack development by specializing in BackEnd, FrontEnd and Artificial Intelligence. Although I am still at the beginning of the road, I should continue on my way for my goals. I like to share my knowledge and examine the projects of people I idolize.</h3>
+<h3 align="center">I am a 4th year Software Engineering student at Dogus University. I strive to have a strong background in FullStack development by specializing in Backend, Frontend and Artificial Intelligence. Although I am still at the beginning of the road, I should continue on my way for my goals. I like to share my knowledge and examine the projects of people I idolize.</h3>
 <img align="right" alt="Coding" width="400" src="https://leo-xee.github.io/81aefd7d1672183644b6579d60eee69e/Next.gif">
 
 
