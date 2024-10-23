@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://leo-xee.github.io/81aefd7d1672183644b6579d60eee69e/Next.gif">
 
 
-- 🔭 I’m currently working on [Nextjs/Udemy-Clone](https://github.com/cangndz75/udemy-next)
+- 🔭 I’m currently working on [React Native/ Event App](https://github.com/cangndz75/biletixAI)
 
 - 🌱 I’m currently learning **Nextjs, React Native, Prisma, OpenAI, Python, Flutter, Amazon Web Services**
 
