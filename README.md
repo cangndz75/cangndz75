@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cangndz75](https://github.com/cangndz75)
 
-- 💬 My skills **React, Nextjs, TypeScript, Nodejs, React Native, Flutter, Kotlin, MongoDB, Asp.NET, C#, Java**
+- 💬 My skills **React, Nextjs, TypeScript, Nodejs, React Native, Flutter, MongoDB | ⏳Asp.NET, C#, Java**
 
 - 📫 How to reach me **cangunduz01@gmail.com**
 
