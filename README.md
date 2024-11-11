@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Nextjs/Udemy & React Native & AI**
 
-- 👨‍💻 My goal, my dream **React Native Fullstack App**
+- 👨‍💻 My goal, my dream **React Native / Nextjs Fullstack App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cangndz75](https://github.com/cangndz75)
 
