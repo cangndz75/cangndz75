@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can Gündüz</h1>
 <h3 align=“center”>I graduated from Dogus University, Department of Software Engineering. I strive to have a strong background in FullStack development by specializing in Backend, Frontend and Artificial Intelligence. I like to share my knowledge and examine the projects of my role models</h3>.
-<img align=“right” alt=“Coding” width=“400” src=“https://leo-xee.github.io/81aefd7d1672183644b6579d60eee69e/Next.gif”>
 
 Translated with DeepL.com (free version)
 
